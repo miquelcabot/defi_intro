@@ -1,11 +1,11 @@
 {
-  "name": "defi_intro",
+  "name": "send_dai_test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ethereum DeFi test program that sends DAI tokens",
   "main": "app.js",
   "author": "Miquel A. Cabot",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "repository": {
     "type": "git",
