@@ -1,6 +1,6 @@
-# defi_intro
+# send_dai_test
 
-Ethereum DeFi program
+Ethereum DeFi test program that sends DAI tokens
 
 Install:
 ```
